@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
         Log.i("adadad", "onCreate: liuyi 添加Log");
         Log.i("adadad", "onCreate: liuyi 修改xml");
         Log.i("adadad", "onCreate: liuyi 删除了一行log");
+        Log.i("adadad", "onCreate: liuyi再次添加了一行Log");
     }
 }
