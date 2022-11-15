@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.i("adadad", "onCreate: dadad a");
+        Log.i("adadad", "onCreate: 修改Log");
     }
 }
